@@ -51,7 +51,7 @@ class MyHomePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'Hello my brothers and sisters!!!!!',
+              'Hello from sunny Stone Harbor!!!!!',
             ),
           ],
         ),
