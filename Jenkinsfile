@@ -18,7 +18,8 @@ pipeline {
        
         stage('Deploy'){
             steps {
-                echo "Running deploy..."
+		    snDevOpsChange()
+                echo "Running deploy to PROD"
             }
         }
        
